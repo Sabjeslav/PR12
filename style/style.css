@@ -7,6 +7,10 @@ li {
     list-style-type: none;
 }
 
+.invisible {
+    display: none;
+}
+
 .answers-item label {
     cursor: pointer;
     border: 2px solid #000;
