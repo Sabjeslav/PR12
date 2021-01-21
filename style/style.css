@@ -7,7 +7,7 @@ li {
     list-style-type: none;
 }
 
-.invisible {
+.d-none {
     display: none;
 }
 
